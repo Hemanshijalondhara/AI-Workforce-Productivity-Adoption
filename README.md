@@ -213,12 +213,11 @@ Users can filter dashboard insights by:
 
 ---
 
-# 📷 Dashboard Preview
-
-> Add your Power BI dashboard screenshot here.
 
 ```
-Images/dashboard.png
+## 📊 Dashboard Preview
+
+![AI Workforce Productivity Dashboard](Dashboard.png)
 ```
 
 ---
@@ -227,32 +226,19 @@ Images/dashboard.png
 
 ```text
 AI-Workforce-Productivity-Adoption-Dashboard/
+│
+├── 📄 README.md                           # Project documentation
+│
+├── 📊 Final_Cleaned_Data.csv              # Cleaned dataset used for analysis
+│
+├── 🗄️ Ai productivity analysis.sql         # SQL queries for database creation and data cleaning
+│
+├── 🐍 Ai productivity analysis python.ipynb # Python notebook for EDA and visualization
+│
+├── 📈 ai productivity dashboard.pbix      # Power BI dashboard
+│
+├── 🖼️ Dashboard.png                       # Dashboard preview image
 
-│
-├── Dataset/
-│   └── Final_Cleaned_Data.csv
-│
-├── SQL/
-│   └── Ai productivity analysis.sql
-│
-├── Python/
-│   └── Ai productivity analysis.ipynb
-│
-├── Power BI/
-│   └── ai productivity dashboard.pbix
-│
-├── Report/
-│   └── AI Adoption.pdf
-│
-├── Presentation/
-│   └── AI Adoption & Productivity Analytics Dashboard.pptx
-│
-├── Images/
-│   └── dashboard.png
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
 ```
 
 ---
