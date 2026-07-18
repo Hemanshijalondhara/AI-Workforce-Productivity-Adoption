@@ -213,12 +213,9 @@ Users can filter dashboard insights by:
 
 ---
 
-
-```
 ## 📊 Dashboard Preview
 
 ![AI Workforce Productivity Dashboard](Dashboard.png)
-```
 
 ---
 
