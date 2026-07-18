@@ -223,7 +223,28 @@ Images/dashboard.png
 
 ---
 
+# 📁 Project Structure
 
+```text
+AI-Workforce-Productivity-Adoption-Dashboard/
+
+│
+├── Dataset/
+│   └── Final_Cleaned_Data.csv
+│
+├── SQL/
+│   └── Ai productivity analysis.sql
+│
+├── Python/
+│   └── Ai productivity analysis.ipynb
+│
+├── Power BI/
+│   └── ai productivity dashboard.pbix
+│
+├── Report/
+│   └── AI Adoption.pdf
+│
+├── Presentation/
 │   └── AI Adoption & Productivity Analytics Dashboard.pptx
 │
 ├── Images/
@@ -234,7 +255,7 @@ Images/dashboard.png
 └── README.md
 ```
 
-
+---
 
 # ▶ How to Run This Project
 
@@ -244,7 +265,7 @@ Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/AI-Workforce-Productivity-Adoption-Dashboard.git
-
+```
 
 ---
 
@@ -340,6 +361,9 @@ Computer Engineering Student
 Government Engineering College, Gandhinagar
 
 ---
+
+
+
 
 # ⭐ Support
 
